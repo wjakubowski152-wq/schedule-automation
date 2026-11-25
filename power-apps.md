@@ -30,17 +30,6 @@ Aplikacja ma formę czytelnego widoku operacyjnego, przeznaczonego do przegląda
 - Microsoft Power Automate
 - Microsoft Excel
 
-## Co można uzupełnić w dokumentacji technicznej
-
-- nazwy ekranów i kontrolek,
-- formułę `Items` galerii,
-- sposób filtrowania i sortowania rekordów,
-- sposób odświeżania danych,
-- ustawienia wyświetlania na ekranie,
-- informację, czy aplikacja jest tylko do odczytu, czy pozwala edytować wpisy.
-
-Nie należy dopisywać funkcjonalności, których nie ma w rzeczywistej aplikacji.
-
 ## Prywatność
 
-Do publicznego portfolio przygotuj osobny zestaw fikcyjnych rekordów. Nie publikuj nazwisk pacjentów, informacji o stanie zdrowia, rzeczywistych terminów zabiegów, danych personelu ani zrzutów z wewnętrznego środowiska organizacji.
+Do publicznego portfolio przygotuj osobny zestaw fikcyjnych rekordów. Nie są publikowane nazwiska, informacje o stanie zdrowia, rzeczywiste terminy zabiegów, danych personelu ani zrzuty z wewnętrznego środowiska organizacji.
